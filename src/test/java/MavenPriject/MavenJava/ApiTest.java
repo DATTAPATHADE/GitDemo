@@ -20,5 +20,8 @@ public void LinkedinSignin() {
 }
 public void LinkedinSignout() {
 	System.out.println("Linkden Signout successfully");
+	System.out.println("Linkden Signout successfully1");
+	System.out.println("Linkden Signout successfully2");
+	System.out.println("Linkden Signout successfully3");
 }
 }

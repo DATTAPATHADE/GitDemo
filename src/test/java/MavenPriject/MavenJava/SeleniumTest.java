@@ -22,6 +22,9 @@ System.out.println("JIra Signin Successfully");
 }
 public void JiraSignout() {
 System.out.println("JIra Signout Successfully");
+System.out.println("JIra Signout Successfully1");
+System.out.println("JIra Signout Successfully2");
+System.out.println("JIra Signout Successfully3");
 	
 }
 }
