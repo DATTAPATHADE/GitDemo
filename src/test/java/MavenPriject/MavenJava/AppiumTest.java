@@ -16,5 +16,4 @@ public class AppiumTest {
 		System.out.println("facbook Signin succesfully ");
 	}
 
-
 }
