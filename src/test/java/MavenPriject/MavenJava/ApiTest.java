@@ -11,4 +11,8 @@ public class ApiTest {
 public void LinkedinLogout() {
 	System.out.println("Linkden Log out successfully");
 }
+
+public void LinkedinSignin() {
+	System.out.println("Linkden Signin successfully");
+}
 }
