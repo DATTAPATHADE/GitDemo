@@ -6,6 +6,9 @@ public class AppiumTest {
 	@Test
 	public void FbLogin() {
 		System.out.println("Facbok login successfully");
+		System.out.println("Facbok login successfully1");
+		System.out.println("Facbok login successfully2");
+		System.out.println("Facbok login successfully3");
 	}
 	
 	@Test(groups={"smoke"})

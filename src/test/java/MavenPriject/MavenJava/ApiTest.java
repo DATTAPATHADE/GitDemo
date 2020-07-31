@@ -6,6 +6,9 @@ public class ApiTest {
 	@Test
 	public void LinkdinLogin() {
 		System.out.println("Link den Login successfully");
+		System.out.println("Link den Login successfully1");
+		System.out.println("Link den Login successfully2");
+		System.out.println("Link den Login successfully3");
 	}
 @Test(groups={"smoke"})
 public void LinkedinLogout() {
