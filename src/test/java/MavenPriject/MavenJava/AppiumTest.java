@@ -18,5 +18,8 @@ public class AppiumTest {
 		public void FbSignin() {
 		System.out.println("facbook Signin succesfully ");
 	}
+		public void FbSignout() {
+		System.out.println("facbook Signout succesfully ");
+	}
 
 }

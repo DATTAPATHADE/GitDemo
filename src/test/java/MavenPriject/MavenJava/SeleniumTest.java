@@ -20,4 +20,8 @@ public void JiraSignin() {
 System.out.println("JIra Signin Successfully");
 	
 }
+public void JiraSignout() {
+System.out.println("JIra Signout Successfully");
+	
+}
 }
