@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="98" started-at="2020-07-18T10:40:15 IST" finished-at="2020-07-18T10:40:15 IST">
+    <groups>
+      <group name="smoke">
+        <method signature="ApiTest.LinkedinLogout()[pri:0, instance:MavenPriject.MavenJava.ApiTest@2d928643]" name="LinkedinLogout" class="MavenPriject.MavenJava.ApiTest"/>
+        <method signature="AppiumTest.FbLogout()[pri:0, instance:MavenPriject.MavenJava.AppiumTest@5025a98f]" name="FbLogout" class="MavenPriject.MavenJava.AppiumTest"/>
+        <method signature="SeleniumTest.JiraLogout()[pri:0, instance:MavenPriject.MavenJava.SeleniumTest@49993335]" name="JiraLogout" class="MavenPriject.MavenJava.SeleniumTest"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test name="Command line test" duration-ms="98" started-at="2020-07-18T10:40:15 IST" finished-at="2020-07-18T10:40:15 IST">
+      <class name="MavenPriject.MavenJava.ApiTest">
+        <test-method status="PASS" signature="LinkdinLogin()[pri:0, instance:MavenPriject.MavenJava.ApiTest@2d928643]" name="LinkdinLogin" duration-ms="12" started-at="2020-07-18T10:40:15 IST" finished-at="2020-07-18T10:40:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LinkdinLogin -->
+        <test-method status="PASS" signature="LinkedinLogout()[pri:0, instance:MavenPriject.MavenJava.ApiTest@2d928643]" name="LinkedinLogout" duration-ms="0" started-at="2020-07-18T10:40:15 IST" finished-at="2020-07-18T10:40:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LinkedinLogout -->
+      </class> <!-- MavenPriject.MavenJava.ApiTest -->
+      <class name="MavenPriject.MavenJava.AppiumTest">
+        <test-method status="PASS" signature="FbLogin()[pri:0, instance:MavenPriject.MavenJava.AppiumTest@5025a98f]" name="FbLogin" duration-ms="1" started-at="2020-07-18T10:40:15 IST" finished-at="2020-07-18T10:40:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FbLogin -->
+        <test-method status="PASS" signature="FbLogout()[pri:0, instance:MavenPriject.MavenJava.AppiumTest@5025a98f]" name="FbLogout" duration-ms="0" started-at="2020-07-18T10:40:15 IST" finished-at="2020-07-18T10:40:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FbLogout -->
+      </class> <!-- MavenPriject.MavenJava.AppiumTest -->
+      <class name="MavenPriject.MavenJava.SeleniumTest">
+        <test-method status="PASS" signature="JiraLogout()[pri:0, instance:MavenPriject.MavenJava.SeleniumTest@49993335]" name="JiraLogout" duration-ms="0" started-at="2020-07-18T10:40:15 IST" finished-at="2020-07-18T10:40:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JiraLogout -->
+        <test-method status="PASS" signature="JiratLogin()[pri:0, instance:MavenPriject.MavenJava.SeleniumTest@49993335]" name="JiratLogin" duration-ms="0" started-at="2020-07-18T10:40:15 IST" finished-at="2020-07-18T10:40:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JiratLogin -->
+      </class> <!-- MavenPriject.MavenJava.SeleniumTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
